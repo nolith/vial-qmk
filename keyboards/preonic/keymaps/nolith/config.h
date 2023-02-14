@@ -16,6 +16,10 @@
 
 #pragma once
 
+#define VIAL_KEYBOARD_UID {0x1F, 0x24, 0xCC, 0x4D, 0x97, 0x09, 0x62, 0x3F}
+#define VIAL_UNLOCK_COMBO_ROWS { 0, 3 }
+#define VIAL_UNLOCK_COMBO_COLS { 0, 11 }
+
 #ifdef AUDIO_ENABLE
 #    define STARTUP_SONG SONG(PREONIC_SOUND)
 // #define STARTUP_SONG SONG(NO_SOUND)
