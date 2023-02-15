@@ -25,7 +25,7 @@
 	 "shortName": "IT_UGRAVE"
 	}
   ],
-  "lighting": "qmk_rgblight",
+  "lighting": "none",
   "layouts": {
     "labels": [
       ["Layout", "MIT (1x2u)", "Grid (2x1u)", "2x2u", "2x3u"]

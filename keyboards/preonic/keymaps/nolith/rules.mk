@@ -1,5 +1,6 @@
 SRC += muse.c
 RGBLIGHT_ENABLE = no
+BACKLIGHT_ENABLE = no
 VIA_ENABLE = yes
 VIAL_ENABLE = yes
 VIAL_INSECURE = yes
