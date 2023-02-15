@@ -3,6 +3,28 @@
   "vendorId": "0x03A8",
   "productId": "0xA649",
   "matrix": {"rows": 10, "cols": 6},
+  "customKeycodes": [
+	{"name": "à",
+	 "title": "à",
+	 "shortName": "IT_AGRAVE"
+	},
+	{"name": "è",
+	 "title": "è",
+	 "shortName": "IT_EGRAVE"
+	},
+	{"name": "ì",
+	 "title": "ì",
+	 "shortName": "IT_IGRAVE"
+	},
+	{"name": "ò",
+	 "title": "ò",
+	 "shortName": "IT_OGRAVE"
+	},
+	{"name": "ù",
+	 "title": "ù",
+	 "shortName": "IT_UGRAVE"
+	}
+  ],
   "lighting": "qmk_rgblight",
   "layouts": {
     "labels": [
